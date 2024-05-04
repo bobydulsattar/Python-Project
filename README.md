@@ -16,7 +16,7 @@
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+Employee management system uses a number of open source projects to work properly:
 
 - [Python] - For easy learning and fast running!
 - [Tkinter] - awesome GUI creator
